@@ -219,6 +219,10 @@ Censor X is an innovative privacy app designed to help users protect their ident
 
 ### 🧰 Technologies: Kotlin, ML Kit, FFMPEG, GL SurfaceView, RenderScript, Android SDK
 
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
+
 ---
 
 
