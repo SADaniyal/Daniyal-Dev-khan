@@ -67,6 +67,57 @@ Screenshots:
 
 ---
 
+# 🛡️ Safeti – Venue Safety & Visitor Tracking System
+
+Safeti is a dual-app safety platform designed to track and manage visitors at high-traffic venues such as casinos and nightclubs. It ensures crowd regulation and visitor accountability by enabling QR-based check-ins, automatic tracking, and behavioral monitoring — with a dedicated app for visitors (*Patron*) and one for venue staff (*Guard*).
+
+> 📍 Built for deployment across venues in Denmark, with national ID (MitID) and passport integration.  
+> 🚧 **This app is currently in development and will be available on the Play Store soon.**
+
+---
+
+### 📱 Patron App – Visitor Interface
+
+- 🪪 **MitID & Passport Login** – Secure onboarding using Danish **MitID** or **OCR-based passport scanning**.
+- 📍 **Location-Based Venue Discovery** – Shows nearby venues by user location, with adjustable search radius.
+- 🏢 **Venue Detail with QR Code** – Generates a daily venue-specific QR for check-in (expires after 24 hours).
+- ✅ **Smart Check-In/Out**:
+  - Check-in via **QR scan**
+  - Auto check-out if user exits venue radius (using **sockets**)
+- 📜 **Visit History** – Track list of previously visited venues with timestamps.
+- 🚫 **Ban List Viewer** – View venues where the user has been banned and who issued the ban.
+
+---
+
+### 🧑‍✈️ Guard App – Venue Admin Interface
+
+- 🔐 **Login Screen** – Restricted access for verified guards only.
+- 📊 **Dashboard Charts** – Real-time insights of today’s check-ins/check-outs.
+- 📷 **QR Scanner** – Scan patron QR codes for instant check-in validation.
+- 📋 **Visitor Logs** – Full visit history with timestamps for each visitor.
+- 🚫 **Ban Users** – Manually ban patrons based on venue behavior.
+
+---
+
+### 💼 My Contributions:
+
+- 📲 Developed both **Patron** and **Guard** Android apps.
+- 🧠 Designed and implemented the **check-in/out system** using QR + location + WebSockets.
+- 🗺️ Built **dynamic venue discovery UI** with radius filtering.
+- 🛂 Integrated **OCR + MitID** authentication flow.
+- 📉 Developed **real-time charts and analytics** for venue guards.
+- 🧾 Managed **visit and ban history modules** on both sides.
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Retrofit, WebSockets, Google Maps API, Firebase, Hilt, Coroutines, OCR, Chart Libraries, Location APIs
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
+---
+
+
 # 🛒 Lemvigh Müller – Unmanned Smart Store App
 
 What if you could walk into a store, pick up what you need, and walk out — no lines, no checkout?
