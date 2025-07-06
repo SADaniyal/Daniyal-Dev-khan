@@ -101,36 +101,6 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 
 ---
 
-# Glampions – Fitness App 🏋️‍♂️
-
-A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
-
-<a href='https://github.com/Daniyal-Dev-khan/Glampions'><img alt='View on GitHub' src='https://img.shields.io/badge/Glampions-GitHub-blue?style=for-the-badge&logo=github'></a>
-
-### Technologies: Jetpack Compose, Kotlin, MVVM, Hilt, Flows, Google Fit, ExoPlayer, Firebase Notifications, Retrofit, Sockets
-
----
-
-# Cafe 16 – Food Delivery App for US Army 🍔
-
-A custom food delivery solution with secure payment (Stripe, Google Pay), cart module, and delivery tracking with WebSockets.
-
-<a href='https://github.com/Daniyal-Dev-khan/Cafe-16'><img alt='View on GitHub' src='https://img.shields.io/badge/Cafe_16-GitHub-blue?style=for-the-badge&logo=github'></a>
-
-### Technologies: Kotlin, MVVM, Retrofit, Stripe, Google Maps API, Hilt, Firebase, WebSockets, Multi-language localization
-
----
-
-# Open Borders – Immigration Guide 🌍
-
-Helps users explore and understand U.S. immigration options. Includes guest mode, Q&A flow for guidance, consultation booking with payment, and a news feed.
-
-<a href='https://github.com/Daniyal-Dev-khan/Open-Borders'><img alt='View on GitHub' src='https://img.shields.io/badge/Open_Borders-GitHub-blue?style=for-the-badge&logo=github'></a>
-
-### Technologies: Kotlin, MVVM, Firebase Auth, Stripe, Google Pay, Coroutines, Flows, Firebase Cloud Messaging
-
----
-
 # ❤️ Huk – Real-Time Dating App
 
 Huk is a modern dating app designed to connect people through real-time interaction, event discovery, and smart user matching. I contributed as a **Senior Android Developer**, building multiple core features such as live chat, profile creation, location-based event tracking, face verification, and more.
@@ -167,6 +137,36 @@ Huk is a modern dating app designed to connect people through real-time interact
 ---
 
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, Retrofit, Firebase, Google Maps API, Coroutines, Flows, CameraX, Facebook SDK
+
+---
+
+# Glampions – Fitness App 🏋️‍♂️
+
+A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
+
+<a href='https://github.com/Daniyal-Dev-khan/Glampions'><img alt='View on GitHub' src='https://img.shields.io/badge/Glampions-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+### Technologies: Jetpack Compose, Kotlin, MVVM, Hilt, Flows, Google Fit, ExoPlayer, Firebase Notifications, Retrofit, Sockets
+
+---
+
+# Cafe 16 – Food Delivery App for US Army 🍔
+
+A custom food delivery solution with secure payment (Stripe, Google Pay), cart module, and delivery tracking with WebSockets.
+
+<a href='https://github.com/Daniyal-Dev-khan/Cafe-16'><img alt='View on GitHub' src='https://img.shields.io/badge/Cafe_16-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+### Technologies: Kotlin, MVVM, Retrofit, Stripe, Google Maps API, Hilt, Firebase, WebSockets, Multi-language localization
+
+---
+
+# Open Borders – Immigration Guide 🌍
+
+Helps users explore and understand U.S. immigration options. Includes guest mode, Q&A flow for guidance, consultation booking with payment, and a news feed.
+
+<a href='https://github.com/Daniyal-Dev-khan/Open-Borders'><img alt='View on GitHub' src='https://img.shields.io/badge/Open_Borders-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+### Technologies: Kotlin, MVVM, Firebase Auth, Stripe, Google Pay, Coroutines, Flows, Firebase Cloud Messaging
 
 ---
 
