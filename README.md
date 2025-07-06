@@ -60,6 +60,8 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 - 🎧 Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
 - 🔔 Managed real-time notifications and background services using WorkManager and Firebase.
 
+### 🧱 Technologies: Kotlin, MVVM, Clean Architecture, Firebase, Retrofit, Hilt, XML UI, Google Play Services
+
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
@@ -137,6 +139,9 @@ Huk is a modern dating app designed to connect people through real-time interact
 ---
 
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, Retrofit, Firebase, Google Maps API, Coroutines, Flows, CameraX, Facebook SDK
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
 ---
 
