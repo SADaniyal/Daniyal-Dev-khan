@@ -1,6 +1,6 @@
- # Daniyal Khan
+ # Daniyal Ahmad Khan
 
-### Hello, I am an Android Developer with 3.5+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
+### Hello, I am an Android Developer with 4+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
 
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
@@ -225,6 +225,54 @@ Screenshots:
 
 ---
 
+# 🎣 Fish The Break – Fishing Data Tracker App
+
+Fish The Break is a modern fishing companion app built to help anglers track, plan, and optimize their fishing experience using real-time environmental data. By integrating weather layers, trolling route tracking, and offline support, the app empowers users to make smart, data-driven decisions before casting their lines.
+
+<a href='https://github.com/Daniyal-Dev-khan/Fish-The-Break.git'><img alt='View on GitHub' src='https://img.shields.io/badge/Fish_The_Break-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is protected by IP agreements and cannot be shared publicly.
+
+---
+
+### 🌟 Features:
+
+- 🌊 **Weather & Sea Data Layers**:
+  - Chlorophyll level overlays to identify high fish activity zones
+  - Wind speed & direction data to help choose trolling paths
+  - Real-time weather radar for both sea and coastal regions
+  - Integrated **ArcGIS** maps for geospatial context
+
+- 🎣 **Trolling & Route Tracking**:
+  - Mark and track trolling lines with precision
+  - Save favorite fishing spots and custom routes locally using Room DB
+  - Built-in distance measurement between tracked points
+
+- 📶 **Offline Support**:
+  - Route and point data saved offline via Room DB
+  - **Flows & Coroutines** ensure smooth background saving/retrieving
+
+- ⚙️ **Custom Data Layers**:
+  - Enable/disable specific weather overlays to tailor your fishing dashboard
+
+---
+
+### 💼 My Contributions:
+
+- 🌐 Integrated **ArcGIS** mapping layer with dynamic weather overlays
+- 📍 Implemented **trolling line tracking** with real-time map interaction
+- 📶 Developed full **offline data support** using Room DB
+- 🛠️ Built **distance calculation tools** and location-based logic
+- 📡 Connected **Retrofit APIs** for fetching sea/weather data
+- 🔔 Set up **push notification channels** for timely weather alerts
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Room DB, ArcGIS Maps, Retrofit, Coroutines, Google Maps API, Push Notifications, Flows
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
 
 # Glampions – Fitness App 🏋️‍♂️
 
@@ -243,16 +291,6 @@ A custom food delivery solution with secure payment (Stripe, Google Pay), cart m
 <a href='https://github.com/Daniyal-Dev-khan/Cafe-16'><img alt='View on GitHub' src='https://img.shields.io/badge/Cafe_16-GitHub-blue?style=for-the-badge&logo=github'></a>
 
 ### Technologies: Kotlin, MVVM, Retrofit, Stripe, Google Maps API, Hilt, Firebase, WebSockets, Multi-language localization
-
----
-
-# Open Borders – Immigration Guide 🌍
-
-Helps users explore and understand U.S. immigration options. Includes guest mode, Q&A flow for guidance, consultation booking with payment, and a news feed.
-
-<a href='https://github.com/Daniyal-Dev-khan/Open-Borders'><img alt='View on GitHub' src='https://img.shields.io/badge/Open_Borders-GitHub-blue?style=for-the-badge&logo=github'></a>
-
-### Technologies: Kotlin, MVVM, Firebase Auth, Stripe, Google Pay, Coroutines, Flows, Firebase Cloud Messaging
 
 ---
 
