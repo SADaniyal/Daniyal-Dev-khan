@@ -186,6 +186,42 @@ Screenshots:
 
 ---
 
+# 🛡️ Censor X – Face Blur & Voice Distortion App
+
+Censor X is an innovative privacy app designed to help users protect their identity in both images and videos. With advanced face detection, audio distortion, and multiple blurring modes, it enables complete control over what is revealed or hidden. Whether you're anonymizing a selfie, muting audio in a clip, or obscuring identities in sensitive content — Censor X makes it easy and fast.
+
+<a href='https://github.com/Daniyal-Dev-khan/Censor-X.git'><img alt='View on GitHub' src='https://img.shields.io/badge/Censor_X-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+> 🚫 **Note**: This is a portfolio project created to demonstrate my capabilities in privacy-focused media manipulation.
+
+---
+
+### 🌟 Features:
+
+- 😷 **Face Detection + Blur** – Automatically detects faces in images and applies blur to protect identity.
+- ✍️ **Finger Blur Tool** – Manually blur any part of an image using touch gestures for precise control.
+- 🎞️ **Top-to-Bottom Video Blur** – Applies full-frame blur in videos for anonymizing scenes without cropping.
+- 🔊 **Voice Distortion & Mute** – Modify voice pitch or mute audio in videos for privacy or redaction purposes.
+- 🎯 **Fast Media Rendering** – Built for performance using hardware acceleration and efficient frame handling.
+
+---
+
+### 💼 My Contributions:
+
+- 🚀 Built the entire app **solo**, from UI to core functionality.
+- 🧠 Integrated **ML Kit** for accurate face detection in images.
+- 🎬 Used **FFMPEG** for frame-by-frame video processing and audio manipulation.
+- 🖼️ Developed touch-based **finger blur tool** for intuitive manual blur.
+- 🧱 Used **GL SurfaceView** for high-performance video frame rendering.
+- ⚙️ Applied **RenderScript** for efficient image and video transformations.
+
+---
+
+### 🧰 Technologies: Kotlin, ML Kit, FFMPEG, GL SurfaceView, RenderScript, Android SDK
+
+---
+
+
 # Glampions – Fitness App 🏋️‍♂️
 
 A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
