@@ -4,6 +4,26 @@
 
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
+# 🛒 Pisiffik – Retail Membership & Shopping App
+
+Pisiffik's official mobile app, built to enhance the shopping experience for customers across Greenland. This app digitizes the loyalty card, allowing users to collect and redeem points, view special offers, build shopping lists, and explore curated recipes — all from their smartphone.
+
+<a href='https://play.google.com/store/apps/details?id=com.sa.pisiffik&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### 🌟 Features:
+
+- 📲 **Digital Membership Card** – Scan your phone to earn loyalty points across Pisiffik’s chain stores (SPAR, Jysk, Ilva, Elgiganten, Thansen, etc.)
+- 💰 **Points System** – Earn 1 point for every 100 DKK spent, rounded up!
+- 🛍️ **Special Offers** – Stay updated on rotating deals available for in-store purchase only.
+- 🧾 **Shopping List** – Add, edit, or remove items in your smart grocery list.
+- 🧑‍🍳 **Recipes** – Discover inspiring recipes by chef Miki Siegstad and add ingredients directly to your list.
+- 🌱 **Sustainability Campaigns** – Participate in eco-friendly promotions featuring organic products.
+
+### 🧱 Technologies: Kotlin, MVVM, Firebase, Retrofit, Hilt, XML UI, Google Play Services
+
+Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
+
 ---
 
 # Glampions – Fitness App 🏋️‍♂️
