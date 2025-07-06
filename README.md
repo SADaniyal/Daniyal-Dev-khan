@@ -63,6 +63,43 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
+---
+
+# 🛒 Lemvigh Müller – Unmanned Smart Store App
+
+What if you could walk into a store, pick up what you need, and walk out — no lines, no checkout?
+
+That’s exactly the experience we built with the **Lemvigh Müller** app — a fully autonomous shopping solution for Denmark’s largest technical wholesaler. This smart-store setup uses real-time communication, camera monitoring, and seamless integration between mobile, web, and backend to deliver a checkout-free shopping experience.
+
+> 🏢 **Lemvigh-Müller** is Denmark’s largest wholesaler of steel and technical installations with over 550,000 products and an annual turnover of 7.9+ billion DKK.
+
+> 🚧 **Note**: This app is currently under development and will be live soon.
+
+### 🌟 Features:
+
+- 🛂 **User Onboarding**: Danish users can sign in using **MitID**, while others scan passports via **OCR**.
+- 🎫 **NFT Scan for Entry**: Users must scan an **NFT** to access the physical store.
+- 🛍️ **Real-Time Cart Updates**: Items are added automatically to the cart as users pick them off the shelf, powered by **camera detection** and **sockets**.
+- 🧠 **Image Detection**: Integrated with camera systems to recognize picked items from store shelves.
+- 🧾 **Checkout via Portal**: After shopping, users complete payment via a connected web portal.
+- 🌐 **Multilingual Support**: Available in **Danish and English**.
+
+---
+
+### 💼 My Contributions:
+
+- 🧱 Designed the **entire app architecture** to support real-time cart updates and seamless backend sync.
+- 🔗 Integrated **socket communication** for live cart syncing based on camera triggers.
+- 🧾 Implemented **OCR passport scanning** and **MitID login** for identity verification.
+- 🎥 Coordinated camera integration for **real-time product detection**.
+- 🎫 Built the **NFT scan flow** for secure store access.
+- 🌍 Added **multi-language support** for Danish and English users.
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
+
+
 # Glampions – Fitness App 🏋️‍♂️
 
 A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
