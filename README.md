@@ -1,4 +1,4 @@
-# Daniyal Khan
+ # Daniyal Khan
 
 ### Hello, I am an Android Developer with 3.5+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
 
@@ -44,21 +44,21 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 
 ### ✨ Features:
 
--🧭 Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
--🕰️ Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
--🔔 Prayer Reminders – Push notifications before each Salah to stay consistent.
--🧮 Prayer Tracker – Log and monitor your Salah performance to build habit and reflection.
--📖 Quran Recitation & Translation – Listen or read the Holy Quran with multi-language translation (Urdu, English, and more).
--💬 Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
--🌙 Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
+- 🧭 Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
+- 🕰️ Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
+- 🔔 Prayer Reminders – Push notifications before each Salah to stay consistent.
+- 🧮 Prayer Tracker – Log and monitor your Salah performance to build habit and reflection.
+- 📖 Quran Recitation & Translation – Listen or read the Holy Quran with multi-language translation (Urdu, English, and more).
+- 💬 Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
+- 🌙 Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
 
 ### 🧑‍💻 My Contributions:
--🚀 Built the entire application solo, from scratch.
--🧱 Implemented full clean architecture with domain, data, and UI separation.
--📡 Integrated panoramic Qibla view using sensors and AR-like compass.
--🧠 Developed Islamic ChatBot using local logic and backend NLP APIs.
--🎧 Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
--🔔 Managed real-time notifications and background services using WorkManager and Firebase.
+- 🚀 Built the entire application solo, from scratch.
+- 🧱 Implemented full clean architecture with domain, data, and UI separation.
+- 📡 Integrated panoramic Qibla view using sensors and AR-like compass.
+- 🧠 Developed Islamic ChatBot using local logic and backend NLP APIs.
+- 🎧 Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
+- 🔔 Managed real-time notifications and background services using WorkManager and Firebase.
 
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
