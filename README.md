@@ -42,7 +42,7 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 
 📦 Currently in closed testing phase and will be live on the Play Store soon.
 
-###✨ Features:
+### ✨ Features:
 
 -🧭 Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
 -🕰️ Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
@@ -52,7 +52,7 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 -💬 Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
 -🌙 Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
 
-###🧑‍💻 My Contributions:
+### 🧑‍💻 My Contributions:
 -🚀 Built the entire application solo, from scratch.
 -🧱 Implemented full clean architecture with domain, data, and UI separation.
 -📡 Integrated panoramic Qibla view using sensors and AR-like compass.
