@@ -20,6 +20,14 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 - 🧑‍🍳 **Recipes** – Discover inspiring recipes by chef Miki Siegstad and add ingredients directly to your list.
 - 🌱 **Sustainability Campaigns** – Participate in eco-friendly promotions featuring organic products.
 
+### 💼 My Contributions:
+
+- 🛒 Integrated the **Webshop** module for online browsing and purchasing.
+- 🛍️ Implemented complete **Add to Cart flow** with quantity management and seamless UX.
+- 🧹 Cleaned the existing codebase by fixing **legacy bugs** and refactoring for maintainability.
+- 🔔 Implemented **Push Notifications** to keep users updated on offers and campaigns.
+- 📄 Added **Receipt Feature** to allow users to view digital purchase receipts within the app.
+
 ### 🧱 Technologies: Kotlin, MVVM, Firebase, Retrofit, Hilt, XML UI, Google Play Services
 
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
