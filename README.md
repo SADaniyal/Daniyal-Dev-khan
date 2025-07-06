@@ -32,6 +32,9 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
 ---
 
 # Glampions – Fitness App 🏋️‍♂️
