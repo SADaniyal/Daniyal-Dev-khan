@@ -131,6 +131,45 @@ Helps users explore and understand U.S. immigration options. Includes guest mode
 
 ---
 
+# ❤️ Huk – Real-Time Dating App
+
+Huk is a modern dating app designed to connect people through real-time interaction, event discovery, and smart user matching. I contributed as a **Senior Android Developer**, building multiple core features such as live chat, profile creation, location-based event tracking, face verification, and more.
+
+<a href='https://play.google.com/store/apps/details?id=com.cp.dating.match.partner.hukd&hl=en_GB'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is under intellectual property restrictions and cannot be shared publicly.
+
+---
+
+### 🌟 Features:
+
+- 💬 **Real-Time Chat** – Built a live chat system using **WebSockets** for instant messaging between users.
+- 🧑‍💼 **Profile Setup** – Created a full onboarding and profile setup screen with gender, orientation, and interest fields.
+- 🗺️ **Hotspots / Events Nearby** – Users can discover local events via Google Maps with a heatmap + radius-based filtering.
+- ⏱️ **Missed Connections** – Notifies users if a planned meetup was missed and gives a chance to reconnect.
+- 📸 **Face Verification** – Users verify identity via face matching to ensure trust and safety.
+- 🔄 **Swipe Functionality** – Tinder-style swipe gestures (right for like, left for skip).
+- 🔔 **Push Notifications** – Implemented Firebase Cloud Messaging for match updates and chat alerts.
+- 🔐 **Authentication** – Integrated **Firebase Auth**, including **Google and Facebook login**.
+
+---
+
+### 💼 My Contributions:
+
+- 🔌 Built and connected real-time **WebSocket chat infrastructure**.
+- 🧭 Developed the **Hotspots** map view using Google Maps and heatmap overlays.
+- 🧑‍💼 Created the entire **profile onboarding flow**.
+- 🧠 Implemented **Face Verification** using camera capture and image comparison APIs.
+- 👆 Built the **swipe logic** using gesture detection for matches.
+- 🔔 Set up **Firebase push notifications** and **social sign-in flows** (Google & Facebook).
+- 🔨 Organized the codebase with **MVVM**, clean architecture, and Hilt.
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, Retrofit, Firebase, Google Maps API, Coroutines, Flows, CameraX, Facebook SDK
+
+---
+
 # Fish The Break – Fishing Data & AR Tracker 🎣
 
 A feature-rich marine data tracker that visualizes weather layers, fishing routes, and offline support using Room DB and ArcGIS.
