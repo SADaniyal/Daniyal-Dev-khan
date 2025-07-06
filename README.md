@@ -101,6 +101,9 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
 
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
 ---
 
 # ❤️ Huk – Real-Time Dating App
