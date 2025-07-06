@@ -99,6 +99,7 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
 
+---
 
 # Glampions – Fitness App 🏋️‍♂️
 
