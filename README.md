@@ -37,6 +37,39 @@ Screenshots:
 
 ---
 
+# AllahuAlam – Complete Islamic Lifestyle App 🕌
+AllahuAlam is a comprehensive Islamic mobile application built to support Muslims in fulfilling their daily religious duties with ease and spiritual focus. It features a clean, intuitive interface with highly practical tools such as Qibla direction, prayer tracking, Quran recitation, and more — making it an all-in-one companion for every practicing Muslim.
+
+📦 Currently in closed testing phase and will be live on the Play Store soon.
+
+✨ Features:
+🧭 Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
+
+🕰️ Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
+
+🔔 Prayer Reminders – Push notifications before each Salah to stay consistent.
+
+🧮 Prayer Tracker – Log and monitor your Salah performance to build habit and reflection.
+
+📖 Quran Recitation & Translation – Listen or read the Holy Quran with multi-language translation (Urdu, English, and more).
+
+💬 Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
+
+🌙 Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
+
+🧑‍💻 My Contributions:
+🚀 Built the entire application solo, from scratch.
+
+🧱 Implemented full clean architecture with domain, data, and UI separation.
+
+📡 Integrated panoramic Qibla view using sensors and AR-like compass.
+
+🧠 Developed Islamic ChatBot using local logic and backend NLP APIs.
+
+🎧 Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
+
+🔔 Managed real-time notifications and background services using WorkManager and Firebase.
+
 # Glampions – Fitness App 🏋️‍♂️
 
 A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
