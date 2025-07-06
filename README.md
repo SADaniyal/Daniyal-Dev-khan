@@ -112,8 +112,6 @@ Huk is a modern dating app designed to connect people through real-time interact
 
 <a href='https://play.google.com/store/apps/details?id=com.cp.dating.match.partner.hukd&hl=en_GB'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is under intellectual property restrictions and cannot be shared publicly.
-
 ---
 
 ### 🌟 Features:
@@ -145,6 +143,46 @@ Huk is a modern dating app designed to connect people through real-time interact
 
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
+---
+
+# 🌍 Open Borders – Immigration Guide App
+
+Open Borders is a user-centric immigration app built to guide individuals through complex US immigration processes. It offers structured Q&A flows, consultation booking, real-time immigration news, and multilingual support — all from a clean, accessible interface. Whether using the app as a guest or through secure login, users can receive tailored information and take action directly from the app.
+
+<a href='https://play.google.com/store/apps/details?id=com.open.borders&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is protected by IP agreements and cannot be shared publicly.
+
+---
+
+### 🌟 Features:
+
+- 👤 **Guest Mode & Login** – Use the app as a guest or sign in via email or Google for full access.
+- 📅 **Consultancy Scheduling** – Book sessions with immigration experts and pay via **Stripe** or **Google Pay**.
+- ❓ **Guided Q&A Flow** – Answer a step-by-step series of questions to get personalized immigration options.
+- 📰 **News Feed** – Stay updated with the latest immigration policies, news, and alerts.
+- 🌐 **Multilingual Support** – Available in multiple languages to support global users.
+
+---
+
+### 💼 My Contributions:
+
+- 👨‍💻 Developed the app solo, handling everything from architecture to feature implementation.
+- 🧱 Built using **Clean Architecture** with modular layers for UI, domain, and data.
+- 📆 Implemented **consultation scheduling** and payment integration (Stripe & Google Pay).
+- ❓ Built the **Q&A flow system** to guide users step-by-step through immigration-related questions.
+- 🗞️ Created the dynamic **news feed** with live content pulled from APIs.
+- 🌍 Added **multi-language support** for global reach.
+- 🔐 Integrated **Firebase Authentication** for secure sign-in with email and Google.
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Clean Architecture, Firebase Auth, Stripe, Google Pay, Retrofit, Room DB, Koin, Coroutines
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
 
 ---
 
