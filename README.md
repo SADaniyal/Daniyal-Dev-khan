@@ -183,7 +183,6 @@ Open Borders is a user-centric immigration app built to guide individuals throug
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
-
 ---
 
 # 🛡️ Censor X – Face Blur & Voice Distortion App
@@ -221,7 +220,6 @@ Censor X is an innovative privacy app designed to help users protect their ident
 
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
-
 
 ---
 
@@ -273,41 +271,88 @@ Fish The Break is a modern fishing companion app built to help anglers track, pl
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
+---
 
-# Glampions – Fitness App 🏋️‍♂️
+# 🏋️ Glampions – Fitness & Wellness Tracker App
 
-A fitness tracker that includes step monitoring via Google Fit, workout videos, calorie tracking, and push notifications.
+Glampions is a sleek fitness app designed to help users stay active and healthy by tracking workouts, calories, and daily steps — all from one intuitive platform. With real-time data sync, workout videos, and motivational notifications, it’s built to empower users on their fitness journey.
 
-<a href='https://github.com/Daniyal-Dev-khan/Glampions'><img alt='View on GitHub' src='https://img.shields.io/badge/Glampions-GitHub-blue?style=for-the-badge&logo=github'></a>
+<a href='https://github.com/Daniyal-Dev-khan/Glampions.git'><img alt='View on GitHub' src='https://img.shields.io/badge/Glampions-GitHub-blue?style=for-the-badge&logo=github'></a>
 
-### Technologies: Jetpack Compose, Kotlin, MVVM, Hilt, Flows, Google Fit, ExoPlayer, Firebase Notifications, Retrofit, Sockets
+> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is protected under an intellectual property agreement.
 
 ---
 
-# Cafe 16 – Food Delivery App for US Army 🍔
+### 🌟 Features:
 
-A custom food delivery solution with secure payment (Stripe, Google Pay), cart module, and delivery tracking with WebSockets.
-
-<a href='https://github.com/Daniyal-Dev-khan/Cafe-16'><img alt='View on GitHub' src='https://img.shields.io/badge/Cafe_16-GitHub-blue?style=for-the-badge&logo=github'></a>
-
-### Technologies: Kotlin, MVVM, Retrofit, Stripe, Google Maps API, Hilt, Firebase, WebSockets, Multi-language localization
+- 🎥 **Workout Videos** – Stream guided workouts using **ExoPlayer**, categorized by goal, intensity, and duration.
+- 🔥 **Calorie Tracking** – Log meals, analyze intake, and view weekly charts of progress.
+- 🚶 **Step Monitoring** – Integrated with **Google Fit API** to monitor steps, distance, and calories burned.
+- 🔔 **Push Notifications** – Stay motivated with reminders for workouts and goals via **Firebase Cloud Messaging**.
+- 🔄 **Real-Time Sync** – Workout data and progress sync live with the server using **WebSockets** and REST APIs.
 
 ---
 
-# Fish The Break – Fishing Data & AR Tracker 🎣
+### 💼 My Contributions:
 
-A feature-rich marine data tracker that visualizes weather layers, fishing routes, and offline support using Room DB and ArcGIS.
+- 🧱 Built the app from the ground up using **Jetpack Compose** and **MVVM** architecture.
+- 🔌 Integrated **Google Fit API** for real-time activity syncing.
+- 🎥 Developed the **workout video player** using ExoPlayer.
+- 🔄 Set up **WebSocket channels** for live sync of progress and workout stats.
+- 🔔 Implemented **Firebase Notifications** for workout reminders and streak motivation.
 
-<a href='https://github.com/Daniyal-Dev-khan/Fish-The-Break'><img alt='View on GitHub' src='https://img.shields.io/badge/Fish_The_Break-GitHub-blue?style=for-the-badge&logo=github'></a>
+---
 
-### Technologies: Kotlin, ArcGIS (ISRI Maps), Room Database, Flows, MVVM, Google Maps API, Retrofit
+### 🧰 Technologies: Kotlin, Jetpack Compose, MVVM, Hilt, Google Fit API, ExoPlayer, WebSockets, Retrofit, Firebase Cloud Messaging, Kotlin Flows
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
+---
+
+# 🍽️ Cafe 16 – Food Delivery App for US Army
+
+Cafe 16 is a dedicated food delivery application built for US Army personnel. It simplifies the food ordering process with categorized menus, real-time delivery tracking, secure online payments, and personalized recommendations — all within a multi-language, user-friendly environment.
+
+<a href='https://github.com/Daniyal-Dev-khan/Cafe-16.git'><img alt='View on GitHub' src='https://img.shields.io/badge/Cafe_16-GitHub-blue?style=for-the-badge&logo=github'></a>
+
+> 🚫 **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is protected under an intellectual property agreement and cannot be shared publicly.
+
+---
+
+### 🌟 Features:
+
+- 🔐 **User Accounts** – Soldiers can securely register and log in with **Firebase Authentication**.
+- 🏠 **Personalized Home** – Displays food suggestions based on previous orders and preferences.
+- 🍔 **Menu Navigation** – Organized menu with intuitive **categories and subcategories**.
+- 🛒 **Cart System** – Add/remove items with full **bill preview** before checkout.
+- 📦 **Delivery Tracking** – Real-time status and map-based tracking using **Google Maps** and **WebSockets**.
+- 💳 **Online Payments** – Secure payment integration with **Stripe SDK**.
+- 🌍 **Multi-language Localization** – UI supports multiple languages for better accessibility.
+
+---
+
+### 💼 My Contributions:
+
+- 🧱 Developed the **menu & cart module** including category navigation and item management.
+- 🔁 Built the **delivery tracking system** using **WebSockets** and Google Maps.
+- 💳 Integrated **Stripe** for secure online payments.
+- 🌍 Implemented **multi-language support** across the app for global usability.
+- 🔔 Managed **real-time delivery updates** with smooth UI syncing.
+
+---
+
+### 🧰 Technologies: Kotlin, MVVM, Firebase, Retrofit, Stripe SDK, Google Maps API, WebSockets, Hilt, Localization
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Kotlin, Java  
-- **Architecture**: MVVM, Repository Pattern  
+- **Languages**: Kotlin, Java  , java scipt
+- **Architecture**: MVVM, Repository Pattern , Clean Architecture 
 - **UI**: Jetpack Compose, XML  
 - **Libraries**: Room, Hilt, Retrofit, ExoPlayer, Coroutines, Flows  
 - **APIs & SDKs**: Google Fit, Firebase, Stripe, Google Maps, ArcGIS, WebSockets  
@@ -320,7 +365,6 @@ A feature-rich marine data tracker that visualizes weather layers, fishing route
 - Compose Multiplatform  
 - Modular Architecture  
 - Android Performance Optimization  
-- Clean Architecture with Domain Layers
 
 ---
 
