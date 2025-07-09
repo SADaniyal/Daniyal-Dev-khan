@@ -36,6 +36,7 @@ Screenshots:
 <p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
+
 # 💸 Krytron – Blockchain-Based Digital Wallet App
 
 Krytron is a secure and user-friendly cryptocurrency wallet app, designed for managing digital assets built on Pakistan’s leading public blockchain. In partnership with **GIFTIO** (digital gifting solutions) and **Neem** (financial service provider), Krytron enables users to create, manage, and transact their Krytron tokens securely — all from one powerful mobile wallet.
@@ -59,8 +60,7 @@ Krytron is a secure and user-friendly cryptocurrency wallet app, designed for ma
 
 ### 💼 My Contributions:
 
-- 🧱 Developed **wallet generation logic** using **BIP39** and **EthereumJS**.
-- 🔒 Implemented **AES encryption** for protecting sensitive user data.
+- 🔒 Implemented Integrated Neem integration in app.
 - 🔄 Built **send/request flow**, integrated Neem API for transaction processing.
 - 📲 Created **biometric login system** for a secure, passwordless experience.
 - 🧾 Added **PDF export feature** for wallet transaction summaries.
@@ -191,8 +191,6 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
 
-Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
 ---
 
