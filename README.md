@@ -232,7 +232,7 @@ Huk is a modern dating app designed to connect people through real-time interact
 ### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, Retrofit, Firebase, Google Maps API, Coroutines, Flows, CameraX, Facebook SDK
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/33sS0KzeLAKzFdGhbBcubOFlKq0H_-eggRp1p81imSEreNgqX2IPLNlgoSxCSbiKkg=w1052-h592-rw" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/F1K6DKnTPEMQmWMjr3Yf77JGKw17mluGLolVbORst4_iU8wNQ4XDzSwJback_pJJ0A=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/p2tgbJynX5rELJxeq9cGCpjq8BV0RkQ-_wv_8GklLMYCsFKo8M5pn9U9BxbGQiO5Y4wj=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
@@ -271,7 +271,7 @@ Open Borders is a user-centric immigration app built to guide individuals throug
 ### 🧰 Technologies: Kotlin, MVVM, Clean Architecture, Firebase Auth, Stripe, Google Pay, Retrofit, Room DB, Koin, Coroutines
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/-PRIPLaCVNxACD-q6u8P1ITR92vzi5eHGoC1-o9uZRmlR8Qxti6X7e6qxMJIXWLVge0=w1052-h592-rw" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/ElOYVFDRHZs0OejPspWAhmttm4wGcgRS0izI76ELyUB94icgYLD9LHysr_x0_4K4i0fX=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/ElOYVFDRHZs0OejPspWAhmttm4wGcgRS0izI76ELyUB94icgYLD9LHysr_x0_4K4i0fX=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
@@ -309,8 +309,7 @@ Censor X is an innovative privacy app designed to help users protect their ident
 ### 🧰 Technologies: Kotlin, ML Kit, FFMPEG, GL SurfaceView, RenderScript, Android SDK
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
-
+<p align="center"> <img src="https://play-lh.googleusercontent.com/8cYNRuDsBWAYG1y8zWmKmzSg-uezbwMwAPgm9W2zoJkNf_RgxolHF5VVp6fRt2bycg=w1080" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/Snexz-9jU2wjmTaXbHdr0jSmag_eRcBYxtAV4VuC9tuNd6FQBPo6qHleMx7tQFM1sg=w1080" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/IdOlcZuM5TVAWR1FcACoqSQZOReRbodq3b4tnaZXYHZoUJo8e-J50RRl05ilz_TDGFs=w1080" width="250" height="500" /> </p>
 ---
 
 # 🎣 Fish The Break – Fishing Data Tracker App
