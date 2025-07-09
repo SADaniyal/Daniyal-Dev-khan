@@ -152,7 +152,7 @@ Safeti is a dual-app safety platform designed to track and manage visitors at hi
 ### 🧰 Technologies: Kotlin, MVVM, Retrofit, WebSockets, Google Maps API, Firebase, Hilt, Coroutines, OCR, Chart Libraries, Location APIs
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://lh3.googleusercontent.com/jR6s2QOKgoA2lw2veWwyDUPu9yQhMOrSSm_ffK0xsM_G8wl7cMhJ49-XTxsvKG0Vmw" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/LCGul50EOabVtoyF_BDvhD1wY_1XYq8kJl6XLX-HPMBFU8-Qonu2fjD7ejiKCefR1kM5" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/Saf9xrdlsLbqY90VbjRSIroQXFLIOLe-BM-Uaj34PL3v2qycvPbBX0A3eqkUbkeZ8wFF" width="250" height="500" /> </p>
 
 ---
 
