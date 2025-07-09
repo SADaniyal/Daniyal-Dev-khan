@@ -33,7 +33,7 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
 Screenshots:
-<p align="center"> <img src="https://play-lh.googleusercontent.com/t9Se2dF5tbscBVw736HmePYp6Y--h8mAHERvOi2CLg71T30BkzKQi9RaqqxEazWLP9s=w2560-h1440-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
 ---
 # 💸 Krytron – Blockchain-Based Digital Wallet App
