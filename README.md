@@ -33,7 +33,7 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
 Screenshots:
-<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 # 💸 Krytron – Blockchain-Based Digital Wallet App
@@ -102,7 +102,7 @@ AllahuAlam is a comprehensive Islamic mobile application built to support Muslim
 ### 🧱 Technologies: Kotlin, MVVM, Clean Architecture, Firebase, Retrofit, Hilt, XML UI, Google Play Services
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/3pM8P0QODh9qffg09XdWxRgvYMCP6ZKibjAIhRqk87LHoQbZFaJIGn4DfQhvAojKvKM=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
