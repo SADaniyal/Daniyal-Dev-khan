@@ -36,6 +36,45 @@ Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
 
 ---
+# 💸 Krytron – Blockchain-Based Digital Wallet App
+
+Krytron is a secure and user-friendly cryptocurrency wallet app, designed for managing digital assets built on Pakistan’s leading public blockchain. In partnership with **GIFTIO** (digital gifting solutions) and **Neem** (financial service provider), Krytron enables users to create, manage, and transact their Krytron tokens securely — all from one powerful mobile wallet.
+
+> 🔐 A key goal of Krytron is to empower users with full control of their crypto assets using decentralized storage and strong encryption.
+
+---
+
+### 🌟 Features:
+
+- 🔑 **Mnemonic Wallet Creation** – Generate secure wallets using **BIP39 seed phrases** (12-word recovery keys).
+- 🧾 **Backup Locally** – Mnemonics, private keys, and signatures are securely saved to the user’s device (not cloud/downloads).
+- 🔓 **Biometric Authentication** – Secure login using face/fingerprint for returning users.
+- 🪙 **Buy / Sell Tokens** – Purchase and sell Krytron or other tokens directly in the app.
+- 📤 **Send & Request Funds** – Transfer or request funds using phone number or wallet address.
+- 💼 **Transaction History** – View all wallet transactions with detailed entries and downloadable **PDF statements**.
+- 🚀 **Neem API Integration** – Partnered with Neem for processing financial transactions within Pakistan.
+- 🔒 **AES Encryption** – Applied **Advanced Encryption Standard** to securely encrypt user data.
+
+---
+
+### 💼 My Contributions:
+
+- 🧱 Developed **wallet generation logic** using **BIP39** and **EthereumJS**.
+- 🔒 Implemented **AES encryption** for protecting sensitive user data.
+- 🔄 Built **send/request flow**, integrated Neem API for transaction processing.
+- 📲 Created **biometric login system** for a secure, passwordless experience.
+- 🧾 Added **PDF export feature** for wallet transaction summaries.
+- 🧠 Architected the **hybrid Kotlin + React Native** system for platform-specific wallet creation and encryption.
+
+---
+
+### 🧰 Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
+
+Screenshots:
+<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+
+---
+
 
 # AllahuAlam – Complete Islamic Lifestyle App 🕌
 AllahuAlam is a comprehensive Islamic mobile application built to support Muslims in fulfilling their daily religious duties with ease and spiritual focus. It features a clean, intuitive interface with highly practical tools such as Qibla direction, prayer tracking, Quran recitation, and more — making it an all-in-one companion for every practicing Muslim.
