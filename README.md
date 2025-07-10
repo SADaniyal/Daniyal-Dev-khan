@@ -5,30 +5,30 @@
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-# 🛒 Pisiffik – Retail Membership & Shopping App
+# Pisiffik – Retail Membership & Shopping App
 
 Pisiffik's official mobile app, built to enhance the shopping experience for customers across Greenland. This app digitizes the loyalty card, allowing users to collect and redeem points, view special offers, build shopping lists, and explore curated recipes — all from their smartphone.
 
 <a href='https://play.google.com/store/apps/details?id=com.sa.pisiffik&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### 🌟 Features:
+### Features:
 
-- 📲 **Digital Membership Card** – Scan your phone to earn loyalty points across Pisiffik’s chain stores (SPAR, Jysk, Ilva, Elgiganten, Thansen, etc.)
-- 💰 **Points System** – Earn 1 point for every 100 DKK spent, rounded up!
-- 🛍️ **Special Offers** – Stay updated on rotating deals available for in-store purchase only.
-- 🧾 **Shopping List** – Add, edit, or remove items in your smart grocery list.
-- 🧑‍🍳 **Recipes** – Discover inspiring recipes by chef Miki Siegstad and add ingredients directly to your list.
-- 🌱 **Sustainability Campaigns** – Participate in eco-friendly promotions featuring organic products.
+-  **Digital Membership Card** – Scan your phone to earn loyalty points across Pisiffik’s chain stores (SPAR, Jysk, Ilva, Elgiganten, Thansen, etc.)
+-  **Points System** – Earn 1 point for every 100 DKK spent, rounded up!
+-  **Special Offers** – Stay updated on rotating deals available for in-store purchase only.
+-  **Shopping List** – Add, edit, or remove items in your smart grocery list.
+-  **Recipes** – Discover inspiring recipes by chef Miki Siegstad and add ingredients directly to your list.
+-  **Sustainability Campaigns** – Participate in eco-friendly promotions featuring organic products.
 
-### 💼 My Contributions:
+### My Contributions:
 
-- 🛒 Integrated the **Webshop** module for online browsing and purchasing.
-- 🛍️ Implemented complete **Add to Cart flow** with quantity management and seamless UX.
-- 🧹 Cleaned the existing codebase by fixing **legacy bugs** and refactoring for maintainability.
-- 🔔 Implemented **Push Notifications** to keep users updated on offers and campaigns.
-- 📄 Added **Receipt Feature** to allow users to view digital purchase receipts within the app.
+- Integrated the **Webshop** module for online browsing and purchasing.
+- Implemented complete **Add to Cart flow** with quantity management and seamless UX.
+- Cleaned the existing codebase by fixing **legacy bugs** and refactoring for maintainability.
+- Implemented **Push Notifications** to keep users updated on offers and campaigns.
+- Added **Receipt Feature** to allow users to view digital purchase receipts within the app.
 
-### 🧱 Technologies: Kotlin, MVVM, Firebase, Retrofit, Hilt, XML UI, Google Play Services
+### Technologies: Kotlin, MVVM, Firebase, Retrofit, Hilt, XML UI, Google Play Services
 
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
@@ -37,38 +37,38 @@ Screenshots:
 
 ---
 
-# 💸 Krytron – Blockchain-Based Digital Wallet App
+# Krytron – Blockchain-Based Digital Wallet App
 
 Krytron is a secure and user-friendly cryptocurrency wallet app, designed for managing digital assets built on Pakistan’s leading public blockchain. In partnership with **GIFTIO** (digital gifting solutions) and **Neem** (financial service provider), Krytron enables users to create, manage, and transact their Krytron tokens securely — all from one powerful mobile wallet.
 
-> 🔐 A key goal of Krytron is to empower users with full control of their crypto assets using decentralized storage and strong encryption.
+> A key goal of Krytron is to empower users with full control of their crypto assets using decentralized storage and strong encryption.
 
 ---
 
-### 🌟 Features:
+### Features:
 
-- 🔑 **Mnemonic Wallet Creation** – Generate secure wallets using **BIP39 seed phrases** (12-word recovery keys).
-- 🧾 **Backup Locally** – Mnemonics, private keys, and signatures are securely saved to the user’s device (not cloud/downloads).
-- 🔓 **Biometric Authentication** – Secure login using face/fingerprint for returning users.
-- 🪙 **Buy / Sell Tokens** – Purchase and sell Krytron or other tokens directly in the app.
-- 📤 **Send & Request Funds** – Transfer or request funds using phone number or wallet address.
-- 💼 **Transaction History** – View all wallet transactions with detailed entries and downloadable **PDF statements**.
-- 🚀 **Neem API Integration** – Partnered with Neem for processing financial transactions within Pakistan.
-- 🔒 **AES Encryption** – Applied **Advanced Encryption Standard** to securely encrypt user data.
-
----
-
-### 💼 My Contributions:
-
-- 🔒 Implemented Integrated Neem integration in app.
-- 🔄 Built **send/request flow**, integrated Neem API for transaction processing.
-- 📲 Created **biometric login system** for a secure, passwordless experience.
-- 🧾 Added **PDF export feature** for wallet transaction summaries.
-- 🧠 Architected the **hybrid Kotlin + React Native** system for platform-specific wallet creation and encryption.
+-  **Mnemonic Wallet Creation** – Generate secure wallets using **BIP39 seed phrases** (12-word recovery keys).
+-  **Backup Locally** – Mnemonics, private keys, and signatures are securely saved to the user’s device (not cloud/downloads).
+-  **Biometric Authentication** – Secure login using face/fingerprint for returning users.
+-  **Buy / Sell Tokens** – Purchase and sell Krytron or other tokens directly in the app.
+-  **Send & Request Funds** – Transfer or request funds using phone number or wallet address.
+-  **Transaction History** – View all wallet transactions with detailed entries and downloadable **PDF statements**.
+-  **Neem API Integration** – Partnered with Neem for processing financial transactions within Pakistan.
+-  **AES Encryption** – Applied **Advanced Encryption Standard** to securely encrypt user data.
 
 ---
 
-### 🧰 Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
+### My Contributions:
+
+-  Implemented Integrated Neem integration in app.
+-  Built **send/request flow**, integrated Neem API for transaction processing.
+-  Created **biometric login system** for a secure, passwordless experience.
+-  Added **PDF export feature** for wallet transaction summaries.
+-  Architected the **hybrid Kotlin + React Native** system for platform-specific wallet creation and encryption.
+
+---
+
+### Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
 
 Screenshots:
 <p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
@@ -76,80 +76,80 @@ Screenshots:
 ---
 
 
-# AllahuAlam – Complete Islamic Lifestyle App 🕌
+# AllahuAlam – Complete Islamic Lifestyle App 
 AllahuAlam is a comprehensive Islamic mobile application built to support Muslims in fulfilling their daily religious duties with ease and spiritual focus. It features a clean, intuitive interface with highly practical tools such as Qibla direction, prayer tracking, Quran recitation, and more — making it an all-in-one companion for every practicing Muslim.
 
-📦 Currently in closed testing phase and will be live on the Play Store soon.
+Currently in closed testing phase and will be live on the Play Store soon.
 
-### ✨ Features:
+###  Features:
 
-- 🧭 Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
-- 🕰️ Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
-- 🔔 Prayer Reminders – Push notifications before each Salah to stay consistent.
-- 🧮 Prayer Tracker – Log and monitor your Salah performance to build habit and reflection.
-- 📖 Quran Recitation & Translation – Listen or read the Holy Quran with multi-language translation (Urdu, English, and more).
-- 💬 Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
-- 🌙 Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
+-  Qibla Direction – Precise compass-based direction using GPS, with a 360° panoramic view.
+-  Accurate Prayer Timings – Auto-calculated based on location, with multiple calculation methods.
+-  Prayer Reminders – Push notifications before each Salah to stay consistent.
+-  Prayer Tracker – Log and monitor your Salah performance to build habit and reflection.
+-  Quran Recitation & Translation – Listen or read the Holy Quran with multi-language translation (Urdu, English, and more).
+-  Islamic ChatBot – Ask Islamic questions and get context-aware answers instantly.
+-  Elegant UI – A simple, distraction-free design focused on clarity and spiritual ease.
 
-### 🧑‍💻 My Contributions:
-- 🚀 Built the entire application solo, from scratch.
-- 🧱 Implemented full clean architecture with domain, data, and UI separation.
-- 📡 Integrated panoramic Qibla view using sensors and AR-like compass.
-- 🧠 Developed Islamic ChatBot using local logic and backend NLP APIs.
-- 🎧 Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
-- 🔔 Managed real-time notifications and background services using WorkManager and Firebase.
+### My Contributions:
+-  Built the entire application solo, from scratch.
+-  Implemented full clean architecture with domain, data, and UI separation.
+-  Integrated panoramic Qibla view using sensors and AR-like compass.
+-  Developed Islamic ChatBot using local logic and backend NLP APIs.
+-  Integrated Quran recitations, multi-language translations, and dynamic prayer calculations.
+-  Managed real-time notifications and background services using WorkManager and Firebase.
 
-### 🧱 Technologies: Kotlin, MVVM, Clean Architecture, Firebase, Retrofit, Hilt, XML UI, Google Play Services
+### Technologies: Kotlin, MVVM, Clean Architecture, Firebase, Retrofit, Hilt, XML UI, Google Play Services
 
 Screenshots:
 <p align="center"> <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/3pM8P0QODh9qffg09XdWxRgvYMCP6ZKibjAIhRqk87LHoQbZFaJIGn4DfQhvAojKvKM=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
-# 🛡️ Safeti – Venue Safety & Visitor Tracking System
+# Safeti – Venue Safety & Visitor Tracking System
 
 Safeti is a dual-app safety platform designed to track and manage visitors at high-traffic venues such as casinos and nightclubs. It ensures crowd regulation and visitor accountability by enabling QR-based check-ins, automatic tracking, and behavioral monitoring — with a dedicated app for visitors (*Patron*) and one for venue staff (*Guard*).
 
-> 📍 Built for deployment across venues in Denmark, with national ID (MitID) and passport integration.  
-> 🚧 **This app is currently in development and will be available on the Play Store soon.**
+>  Built for deployment across venues in Denmark, with national ID (MitID) and passport integration.  
+>  **This app is currently in development and will be available on the Play Store soon.**
 
 ---
 
-### 📱 Patron App – Visitor Interface
+### Patron App – Visitor Interface
 
-- 🪪 **MitID & Passport Login** – Secure onboarding using Danish **MitID** or **OCR-based passport scanning**.
-- 📍 **Location-Based Venue Discovery** – Shows nearby venues by user location, with adjustable search radius.
-- 🏢 **Venue Detail with QR Code** – Generates a daily venue-specific QR for check-in (expires after 24 hours).
-- ✅ **Smart Check-In/Out**:
+- **MitID & Passport Login** – Secure onboarding using Danish **MitID** or **OCR-based passport scanning**.
+- **Location-Based Venue Discovery** – Shows nearby venues by user location, with adjustable search radius.
+- **Venue Detail with QR Code** – Generates a daily venue-specific QR for check-in (expires after 24 hours).
+- **Smart Check-In/Out**:
   - Check-in via **QR scan**
   - Auto check-out if user exits venue radius (using **sockets**)
-- 📜 **Visit History** – Track list of previously visited venues with timestamps.
-- 🚫 **Ban List Viewer** – View venues where the user has been banned and who issued the ban.
+- **Visit History** – Track list of previously visited venues with timestamps.
+- **Ban List Viewer** – View venues where the user has been banned and who issued the ban.
 
 ---
 
-### 🧑‍✈️ Guard App – Venue Admin Interface
+### Guard App – Venue Admin Interface
 
-- 🔐 **Login Screen** – Restricted access for verified guards only.
-- 📊 **Dashboard Charts** – Real-time insights of today’s check-ins/check-outs.
-- 📷 **QR Scanner** – Scan patron QR codes for instant check-in validation.
-- 📋 **Visitor Logs** – Full visit history with timestamps for each visitor.
-- 🚫 **Ban Users** – Manually ban patrons based on venue behavior.
-
----
-
-### 💼 My Contributions:
-
-- 📲 Developed both **Patron** and **Guard** Android apps.
-- 🧠 Designed and implemented the **check-in/out system** using QR + location + WebSockets.
-- 🗺️ Built **dynamic venue discovery UI** with radius filtering.
-- 🛂 Integrated **OCR + MitID** authentication flow.
-- 📉 Developed **real-time charts and analytics** for venue guards.
-- 🧾 Managed **visit and ban history modules** on both sides.
+-  **Login Screen** – Restricted access for verified guards only.
+-  **Dashboard Charts** – Real-time insights of today’s check-ins/check-outs.
+-  **QR Scanner** – Scan patron QR codes for instant check-in validation.
+-  **Visitor Logs** – Full visit history with timestamps for each visitor.
+-  **Ban Users** – Manually ban patrons based on venue behavior.
 
 ---
 
-### 🧰 Technologies: Kotlin, MVVM, Retrofit, WebSockets, Google Maps API, Firebase, Hilt, Coroutines, OCR, Chart Libraries, Location APIs
+###  My Contributions:
+
+-  Developed both **Patron** and **Guard** Android apps.
+-  Designed and implemented the **check-in/out system** using QR + location + WebSockets.
+-  Built **dynamic venue discovery UI** with radius filtering.
+-  Integrated **OCR + MitID** authentication flow.
+-  Developed **real-time charts and analytics** for venue guards.
+-  Managed **visit and ban history modules** on both sides.
+
+---
+
+### Technologies: Kotlin, MVVM, Retrofit, WebSockets, Google Maps API, Firebase, Hilt, Coroutines, OCR, Chart Libraries, Location APIs
 
 Screenshots:
 <p align="center"> <img src="https://lh3.googleusercontent.com/jR6s2QOKgoA2lw2veWwyDUPu9yQhMOrSSm_ffK0xsM_G8wl7cMhJ49-XTxsvKG0Vmw" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/LCGul50EOabVtoyF_BDvhD1wY_1XYq8kJl6XLX-HPMBFU8-Qonu2fjD7ejiKCefR1kM5" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/vp5nJJpzYnZI5RsDjJS8SbX27PWNI5Xp6VtRARke6dJizH2OLwm2xVuVaC9MNivUBXo" width="250" height="500" /> </p>
@@ -157,44 +157,44 @@ Screenshots:
 ---
 
 
-# 🛒 Lemvigh Müller – Unmanned Smart Store App
+#  Lemvigh Müller – Unmanned Smart Store App
 
 What if you could walk into a store, pick up what you need, and walk out — no lines, no checkout?
 
 That’s exactly the experience we built with the **Lemvigh Müller** app — a fully autonomous shopping solution for Denmark’s largest technical wholesaler. This smart-store setup uses real-time communication, camera monitoring, and seamless integration between mobile, web, and backend to deliver a checkout-free shopping experience.
 
-> 🏢 **Lemvigh-Müller** is Denmark’s largest wholesaler of steel and technical installations with over 550,000 products and an annual turnover of 7.9+ billion DKK.
+> **Lemvigh-Müller** is Denmark’s largest wholesaler of steel and technical installations with over 550,000 products and an annual turnover of 7.9+ billion DKK.
 
-> 🚧 **Note**: This app is currently under development and will be live soon.
+> **Note**: This app is currently under development and will be live soon.
 
-### 🌟 Features:
+### Features:
 
-- 🛂 **User Onboarding**: Danish users can sign in using **MitID**, while others scan passports via **OCR**.
-- 🎫 **NFT Scan for Entry**: Users must scan an **NFT** to access the physical store.
-- 🛍️ **Real-Time Cart Updates**: Items are added automatically to the cart as users pick them off the shelf, powered by **camera detection** and **sockets**.
-- 🧠 **Image Detection**: Integrated with camera systems to recognize picked items from store shelves.
-- 🧾 **Checkout via Portal**: After shopping, users complete payment via a connected web portal.
-- 🌐 **Multilingual Support**: Available in **Danish and English**.
-
----
-
-### 💼 My Contributions:
-
-- 🧱 Designed the **entire app architecture** to support real-time cart updates and seamless backend sync.
-- 🔗 Integrated **socket communication** for live cart syncing based on camera triggers.
-- 🧾 Implemented **OCR passport scanning** and **MitID login** for identity verification.
-- 🎥 Coordinated camera integration for **real-time product detection**.
-- 🎫 Built the **NFT scan flow** for secure store access.
-- 🌍 Added **multi-language support** for Danish and English users.
+- **User Onboarding**: Danish users can sign in using **MitID**, while others scan passports via **OCR**.
+- **NFT Scan for Entry**: Users must scan an **NFT** to access the physical store.
+- **Real-Time Cart Updates**: Items are added automatically to the cart as users pick them off the shelf, powered by **camera detection** and **sockets**.
+- **Image Detection**: Integrated with camera systems to recognize picked items from store shelves.
+- **Checkout via Portal**: After shopping, users complete payment via a connected web portal.
+- **Multilingual Support**: Available in **Danish and English**.
 
 ---
 
-### 🧰 Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
+### My Contributions:
+
+-  Designed the **entire app architecture** to support real-time cart updates and seamless backend sync.
+-  Integrated **socket communication** for live cart syncing based on camera triggers.
+-  Implemented **OCR passport scanning** and **MitID login** for identity verification.
+-  Coordinated camera integration for **real-time product detection**.
+-  Built the **NFT scan flow** for secure store access.
+-  Added **multi-language support** for Danish and English users.
+
+---
+
+###  Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
 
 
 ---
 
-# ❤️ Huk – Real-Time Dating App
+#  Huk – Real-Time Dating App
 
 Huk is a modern dating app designed to connect people through real-time interaction, event discovery, and smart user matching. I contributed as a **Senior Android Developer**, building multiple core features such as live chat, profile creation, location-based event tracking, face verification, and more.
 
