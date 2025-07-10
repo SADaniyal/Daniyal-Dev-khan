@@ -175,6 +175,10 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 - **Image Detection**: Integrated with camera systems to recognize picked items from store shelves.
 - **Checkout via Portal**: After shopping, users complete payment via a connected web portal.
 - **Multilingual Support**: Available in **Danish and English**.
+- **Biometric login Support** User can simply login with his finger print scan.
+
+Screenshots:
+<p align="center"> <img src="https://lh3.googleusercontent.com/L_9ci6sSQ7zdpgOilI8z0fildinal4_QcBOJMZP1ySghomCOp77sKYJb1SXxdkL9XhY" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/WF98jaR7RPIbT6uaRIXj_p_Hm9xxtNM3ZVaXuLa4SjgUGc8KIgp8hDP-hKYu79qxyWrx" width="250" height="500" />&nbsp;&nbsp;  <img src="https://lh3.googleusercontent.com/WF98jaR7RPIbT6uaRIXj_p_Hm9xxtNM3ZVaXuLa4SjgUGc8KIgp8hDP-hKYu79qxyWrx" width="250" height="500" /> </p>
 
 ---
 
@@ -185,6 +189,7 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 -  Implemented **OCR passport scanning** and **MitID login** for identity verification.
 -  Coordinated camera integration for **real-time product detection**.
 -  Built the **NFT scan flow** for secure store access.
+-  Biometric system for login
 -  Added **multi-language support** for Danish and English users.
 
 ---
