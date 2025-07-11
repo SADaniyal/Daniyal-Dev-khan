@@ -1,4 +1,4 @@
-# Senior Android Developer
+# Daniyal Khan
 
 ### Hello, I am an Android Developer with 4+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
 
