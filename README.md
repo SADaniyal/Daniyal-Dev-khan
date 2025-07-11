@@ -1,9 +1,10 @@
+# Android Developer
+
 ### Hello, I am an Android Developer with 4+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
 
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## Projects:
-
+# Projects:
 # Pisiffik – Retail Membership & Shopping App
 
 Pisiffik's official mobile app, built to enhance the shopping experience for customers across Greenland. This app digitizes the loyalty card, allowing users to collect and redeem points, view special offers, build shopping lists, and explore curated recipes — all from their smartphone.
