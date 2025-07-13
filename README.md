@@ -33,7 +33,7 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
 Screenshots:
-<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/vHrygOu9wBTJM8FiHTRqBRpD4xaPouCTDEaopr0P3mfYkjcQKSegCAxxfdvAtLMknvA=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
@@ -71,7 +71,7 @@ Krytron is a secure and user-friendly cryptocurrency wallet app, designed for ma
 ### Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
 
 Screenshots:
-<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1MpfE7LO85fgOkPpLmU-0pHwc1osEEyMC" width="250" height="500" />&nbsp;&nbsp;  <img src="1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1MpfE7LO85fgOkPpLmU-0pHwc1osEEyMC" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
 
 ---
 
@@ -317,7 +317,8 @@ Screenshots:
 
 Fish The Break is a modern fishing companion app built to help anglers track, plan, and optimize their fishing experience using real-time environmental data. By integrating weather layers, trolling route tracking, and offline support, the app empowers users to make smart, data-driven decisions before casting their lines.
 
-<a href='https://github.com/Daniyal-Dev-khan/Fish-The-Break.git'><img alt='View on GitHub' src='https://img.shields.io/badge/Fish_The_Break-GitHub-blue?style=for-the-badge&logo=github'></a>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1TR8S4Ygikxx-lUfmAbJEgyup8qWZWQ29" width="250" height="500" />&nbsp;&nbsp; <img src="
+https://cdn.prod.website-files.com/6628b76a7665671befed82ff/6628b76a7665671befed83eb_Mask.png" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
 
 > **Disclaimer**: This is a simplified clone created for demonstration purposes. The original source code is protected by IP agreements and cannot be shared publicly.
 
