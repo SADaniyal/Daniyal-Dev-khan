@@ -4,11 +4,15 @@ layout: default
 ---
 
 ## Android Developer
+
 ### Hello, I am an Android Developer with 4+ years of experience in crafting mobile solutions using Kotlin, Jetpack Compose, MVVM, and modern Android development practices. I’m passionate about writing clean code, building scalable apps, and continuously learning new tools, technologies, and best practices.
 
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # Projects:
+
+Each project below reflects my hands-on involvement, architectural contributions, and implementation of advanced Android features using best practices.
+
 # Pisiffik – Retail Membership & Shopping App
 
 Pisiffik's official mobile app, built to enhance the shopping experience for customers across Greenland. This app digitizes the loyalty card, allowing users to collect and redeem points, view special offers, build shopping lists, and explore curated recipes — all from their smartphone.
@@ -37,7 +41,7 @@ Pisiffik's official mobile app, built to enhance the shopping experience for cus
 Pisiffik is Greenland’s largest retail group offering a wide range of products and services through its various brands. This app strengthens customer engagement through personalized offers and smart tools to make shopping more rewarding.
 
 Screenshots:
-<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/fUufI4QajIsdLi3KYHW42U7pLmuCPvQu3auWWNBm3n0SiLuBDVmQeFK9af7cT9OshA=w5120-h2880-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/3Ca8jtR7xzSKDD9Ygw8bmZdYQFcsRBTK7IUDK3TEpAMDdtAM7iRRtcOoYTkn48op1g=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/Av763pmRywsDbRD_C2G-hxijalz4M0hG6MSNlFkk0MSinXsP2RUKoihtyImALvTDZ5pl=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
@@ -74,10 +78,10 @@ Krytron is a secure and user-friendly cryptocurrency wallet app, designed for ma
 
 ### Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
 
-<p align="center"> <img src="https://drive.google.com/file/d/1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR/view?usp=drive_link" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/3pM8P0QODh9qffg09XdWxRgvYMCP6ZKibjAIhRqk87LHoQbZFaJIGn4DfQhvAojKvKM=w1052-h592-rw" width="250" height="500" /> </p>
+Screenshots:
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1MpfE7LO85fgOkPpLmU-0pHwc1osEEyMC" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
 
 ---
-
 
 # AllahuAlam – Complete Islamic Lifestyle App 
 AllahuAlam is a comprehensive Islamic mobile application built to support Muslims in fulfilling their daily religious duties with ease and spiritual focus. It features a clean, intuitive interface with highly practical tools such as Qibla direction, prayer tracking, Quran recitation, and more — making it an all-in-one companion for every practicing Muslim.
@@ -138,7 +142,7 @@ Safeti is a dual-app safety platform designed to track and manage visitors at hi
 -  **QR Scanner** – Scan patron QR codes for instant check-in validation.
 -  **Visitor Logs** – Full visit history with timestamps for each visitor.
 -  **Ban Users** – Manually ban patrons based on venue behavior.
-
+  
 ---
 
 ###  My Contributions:
@@ -158,7 +162,6 @@ Screenshots:
 <p align="center"> <img src="https://lh3.googleusercontent.com/jR6s2QOKgoA2lw2veWwyDUPu9yQhMOrSSm_ffK0xsM_G8wl7cMhJ49-XTxsvKG0Vmw" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/LCGul50EOabVtoyF_BDvhD1wY_1XYq8kJl6XLX-HPMBFU8-Qonu2fjD7ejiKCefR1kM5" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/vp5nJJpzYnZI5RsDjJS8SbX27PWNI5Xp6VtRARke6dJizH2OLwm2xVuVaC9MNivUBXo" width="250" height="500" /> </p>
 
 ---
-
 
 #  Lemvigh Müller – Unmanned Smart Store App
 
@@ -180,9 +183,6 @@ That’s exactly the experience we built with the **Lemvigh Müller** app — a 
 - **Multilingual Support**: Available in **Danish and English**.
 - **Biometric login Support** User can simply login with his finger print scan.
 
-Screenshots:
-<p align="center"> <img src="https://lh3.googleusercontent.com/L_9ci6sSQ7zdpgOilI8z0fildinal4_QcBOJMZP1ySghomCOp77sKYJb1SXxdkL9XhY" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/WF98jaR7RPIbT6uaRIXj_p_Hm9xxtNM3ZVaXuLa4SjgUGc8KIgp8hDP-hKYu79qxyWrx" width="250" height="500" />&nbsp;&nbsp;  <img src="https://lh3.googleusercontent.com/m1mYWT2MVHi4TKgDYkJ4GjxoIlqmbFhKsWG-Hfs9Z-lP7TGTDrR9MXO36eNKfc44_co" width="250" height="500" /> </p>
-
 ---
 
 ### My Contributions:
@@ -199,6 +199,10 @@ Screenshots:
 
 ###  Technologies: Kotlin, MVVM, Hilt, WebSockets, OCR, CameraX, REST APIs, Clean Architecture, Firebase
 
+---
+
+Screenshots:
+<p align="center"> <img src="https://lh3.googleusercontent.com/L_9ci6sSQ7zdpgOilI8z0fildinal4_QcBOJMZP1ySghomCOp77sKYJb1SXxdkL9XhY" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/WF98jaR7RPIbT6uaRIXj_p_Hm9xxtNM3ZVaXuLa4SjgUGc8KIgp8hDP-hKYu79qxyWrx" width="250" height="500" />&nbsp;&nbsp;  <img src="https://lh3.googleusercontent.com/m1mYWT2MVHi4TKgDYkJ4GjxoIlqmbFhKsWG-Hfs9Z-lP7TGTDrR9MXO36eNKfc44_co" width="250" height="500" /> </p>
 
 ---
 
@@ -316,6 +320,7 @@ Censor X is an innovative privacy app designed to help users protect their ident
 
 Screenshots:
 <p align="center"> <img src="https://play-lh.googleusercontent.com/8cYNRuDsBWAYG1y8zWmKmzSg-uezbwMwAPgm9W2zoJkNf_RgxolHF5VVp6fRt2bycg=w1080" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/Snexz-9jU2wjmTaXbHdr0jSmag_eRcBYxtAV4VuC9tuNd6FQBPo6qHleMx7tQFM1sg=w1080" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/IdOlcZuM5TVAWR1FcACoqSQZOReRbodq3b4tnaZXYHZoUJo8e-J50RRl05ilz_TDGFs=w1080" width="250" height="500" /> </p>
+
 ---
 
 # Fish The Break – Fishing Data Tracker App
@@ -364,7 +369,7 @@ Fish The Break is a modern fishing companion app built to help anglers track, pl
 ### Technologies: Kotlin, MVVM, Room DB, ArcGIS Maps, Retrofit, Coroutines, Google Maps API, Push Notifications, Flows
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1JVzqa05oXKcceSGQBPubupKqoHX66-nN" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=17dW91tzZ_cXnnyhb2F5o9by3GO2-3Tbj" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1cjUg8OoYRiQYY6fOnZl-t8Ac7ayGn87F" width="250" height="500" /> </p>
 
 ---
 
@@ -401,7 +406,7 @@ Glampions is a sleek fitness app designed to help users stay active and healthy 
 ### Technologies: Kotlin, Jetpack Compose, MVVM, Hilt, Google Fit API, ExoPlayer, WebSockets, Retrofit, Firebase Cloud Messaging, Kotlin Flows
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=19ZQYGnVoPsol3PKLikSsGfRJc8VEtz6G" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1jCO4gkvwlmJ3sWnBB4utF-089RRCWYlU" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1iqV26HuYSNh-ifkoScrsWoq58nKFxAv6" width="250" height="500" /> </p>
 
 ---
 
@@ -440,7 +445,7 @@ Cafe 16 is a dedicated food delivery application built for US Army personnel. It
 ### Technologies: Kotlin, MVVM, Firebase, Retrofit, Stripe SDK, Google Maps API, WebSockets, Hilt, Localization
 
 Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1RgCoysY92LS1wlAQs0ibFzg0x0ow0VqY" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1UlHVwiWQwgepajedTyv11wLc3EijnlBI" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=13vr_TDjb7z0JVhurIhUkwa2qabotw0Vo" width="250" height="500" /> </p>
 
 ---
 
@@ -470,4 +475,3 @@ Feel free to explore my projects or get in touch via email or LinkedIn. I’m al
 ---
 
 ## LICENSE
-
