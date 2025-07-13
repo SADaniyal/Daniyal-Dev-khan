@@ -74,8 +74,7 @@ Krytron is a secure and user-friendly cryptocurrency wallet app, designed for ma
 
 ### Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
 
-Screenshots:
-<p align="center"> <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder1" width="250" height="500" />&nbsp;&nbsp; <img src="https://github.com/Daniyal-Dev-khan/Daniyal-Dev-khan/assets/placeholder2" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/file/d/1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR/view?usp=drive_link" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/3pM8P0QODh9qffg09XdWxRgvYMCP6ZKibjAIhRqk87LHoQbZFaJIGn4DfQhvAojKvKM=w1052-h592-rw" width="250" height="500" /> </p>
 
 ---
 
