@@ -71,9 +71,9 @@ Krytron is a secure and user-friendly cryptocurrency wallet app, designed for ma
 ### Technologies: Kotlin, React Native, JavaScript, EthereumJS, BIP39, CryptoJS, Coroutines, Flows, Firebase, AES Encryption, Neem API
 
 Screenshots:
-<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR" width="250" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/eDOMiUCFmeyE0I-omv0XLY7BMYbGIAMB6sXXpxeTy16MZAXTyMowGENTai6V_QWxmQ=w1052-h592-rw" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/3pM8P0QODh9qffg09XdWxRgvYMCP6ZKibjAIhRqk87LHoQbZFaJIGn4DfQhvAojKvKM=w1052-h592-rw" width="250" height="500" /> </p>
----
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1tKGW6M3Mw5utBcLhOyClNIPwGnqXHerR" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1MpfE7LO85fgOkPpLmU-0pHwc1osEEyMC" width="250" height="500" />&nbsp;&nbsp;  <img src="1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
 
+---
 
 # AllahuAlam – Complete Islamic Lifestyle App 
 AllahuAlam is a comprehensive Islamic mobile application built to support Muslims in fulfilling their daily religious duties with ease and spiritual focus. It features a clean, intuitive interface with highly practical tools such as Qibla direction, prayer tracking, Quran recitation, and more — making it an all-in-one companion for every practicing Muslim.
@@ -154,7 +154,6 @@ Screenshots:
 <p align="center"> <img src="https://lh3.googleusercontent.com/jR6s2QOKgoA2lw2veWwyDUPu9yQhMOrSSm_ffK0xsM_G8wl7cMhJ49-XTxsvKG0Vmw" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/LCGul50EOabVtoyF_BDvhD1wY_1XYq8kJl6XLX-HPMBFU8-Qonu2fjD7ejiKCefR1kM5" width="250" height="500" />&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/vp5nJJpzYnZI5RsDjJS8SbX27PWNI5Xp6VtRARke6dJizH2OLwm2xVuVaC9MNivUBXo" width="250" height="500" /> </p>
 
 ---
-
 
 #  Lemvigh Müller – Unmanned Smart Store App
 
