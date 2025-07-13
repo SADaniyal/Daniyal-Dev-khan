@@ -5,6 +5,9 @@
 <a href="mailto:daniyal.khan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Daniyal_Khan-8056d5.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniyal-ahmad-khan-009b33148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniyal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # Projects:
+
+Each project below reflects my hands-on involvement, architectural contributions, and implementation of advanced Android features using best practices.
+
 # Pisiffik – Retail Membership & Shopping App
 
 Pisiffik's official mobile app, built to enhance the shopping experience for customers across Greenland. This app digitizes the loyalty card, allowing users to collect and redeem points, view special offers, build shopping lists, and explore curated recipes — all from their smartphone.
@@ -134,7 +137,7 @@ Safeti is a dual-app safety platform designed to track and manage visitors at hi
 -  **QR Scanner** – Scan patron QR codes for instant check-in validation.
 -  **Visitor Logs** – Full visit history with timestamps for each visitor.
 -  **Ban Users** – Manually ban patrons based on venue behavior.
-
+  
 ---
 
 ###  My Contributions:
@@ -312,6 +315,7 @@ Censor X is an innovative privacy app designed to help users protect their ident
 
 Screenshots:
 <p align="center"> <img src="https://play-lh.googleusercontent.com/8cYNRuDsBWAYG1y8zWmKmzSg-uezbwMwAPgm9W2zoJkNf_RgxolHF5VVp6fRt2bycg=w1080" height="500" />&nbsp;&nbsp; <img src="https://play-lh.googleusercontent.com/Snexz-9jU2wjmTaXbHdr0jSmag_eRcBYxtAV4VuC9tuNd6FQBPo6qHleMx7tQFM1sg=w1080" width="250" height="500" />&nbsp;&nbsp;  <img src="https://play-lh.googleusercontent.com/IdOlcZuM5TVAWR1FcACoqSQZOReRbodq3b4tnaZXYHZoUJo8e-J50RRl05ilz_TDGFs=w1080" width="250" height="500" /> </p>
+
 ---
 
 # Fish The Break – Fishing Data Tracker App
@@ -361,7 +365,9 @@ Fish The Break is a modern fishing companion app built to help anglers track, pl
 
 Screenshots:
 <p align="center"> <img src="https://drive.google.com/uc?export=view&id=1JVzqa05oXKcceSGQBPubupKqoHX66-nN" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=17dW91tzZ_cXnnyhb2F5o9by3GO2-3Tbj" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1cjUg8OoYRiQYY6fOnZl-t8Ac7ayGn87F" width="250" height="500" /> </p>
+
 ---
+
 # Glampions – Fitness & Wellness Tracker App
 
 Glampions is a sleek fitness app designed to help users stay active and healthy by tracking workouts, calories, and daily steps — all from one intuitive platform. With real-time data sync, workout videos, and motivational notifications, it’s built to empower users on their fitness journey.
