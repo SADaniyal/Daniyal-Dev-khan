@@ -359,8 +359,7 @@ Fish The Break is a modern fishing companion app built to help anglers track, pl
 ### Technologies: Kotlin, MVVM, Room DB, ArcGIS Maps, Retrofit, Coroutines, Google Maps API, Push Notifications, Flows
 
 Screenshots:
-<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1TR8S4Ygikxx-lUfmAbJEgyup8qWZWQ29" width="250" height="500" />&nbsp;&nbsp; <img src="
-https://cdn.prod.website-files.com/6628b76a7665671befed82ff/6628b76a7665671befed83eb_Mask.png" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1TR8S4Ygikxx-lUfmAbJEgyup8qWZWQ29" width="250" height="500" />&nbsp;&nbsp; <img src="https://drive.google.com/uc?export=view&id=1TR8S4Ygikxx-lUfmAbJEgyup8qWZWQ29" width="250" height="500" />&nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=1T6CP6qMJtmYZoGvFr20AgTfZsdxaTk7u" width="250" height="500" /> </p>
 
 ---
 
